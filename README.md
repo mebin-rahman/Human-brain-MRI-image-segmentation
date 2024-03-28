@@ -1,1 +1,2 @@
 # Human-brain-MRI-image-segmentation
+The objective of this task is to separate the 5 tissue layers from a given set of human brain MRI images, comprising 10 consecutive 'axial' cross-sections. Initially, I employ a range of segmentation methods starting with simple thresholding techniques and progressing to combined approaches for segmenting the MRI images across each slice. Subsequently, I assess their effectiveness and compare the outcomes against the ground-truth label. Finally, I implement an advanced segmentation technique and assess its performance.
